@@ -1,0 +1,8 @@
+
+
+Q1. What is the meaning of "minimum number of actions" in the assignment?
+
+There will always be a (non-empty) set S of rooms that are safe and unvisited. The agent must take the shortest path from the current room to a room in set S which is closest to room [4,4]. If the agent does this repeatedly, then eventually it will exist the Minefield world.
+
+
+
